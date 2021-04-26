@@ -1,4 +1,4 @@
-"Spatiotemporal Variability of Gas Transfer Velocity in a Tropical High-Elevation Stream Using Two Independent Methods"
+# "Spatiotemporal Variability of Gas Transfer Velocity in a Tropical High-Elevation Stream Using Two Independent Methods"
 ## Authors: Keridwen M. Whitmore*, Nehemiah Stewart*, Andrea Encalada, Esteban Suarez, Diego Riveros-Iregui
 
 *These authors contributed equally to this work. 
